@@ -1,0 +1,11 @@
+/text
+*.png
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.pdf
+*.tex
+*.cls
+*.sty
