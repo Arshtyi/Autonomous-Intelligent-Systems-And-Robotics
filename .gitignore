@@ -9,3 +9,7 @@
 *.tex
 *.cls
 *.sty
+build/
+devel/
+src/
+*.catkin_workspace
