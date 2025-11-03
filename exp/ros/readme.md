@@ -643,3 +643,10 @@ rosrun learning_service turtle_spawn
 ```shell
 rosservice call /turtle_command "{}"
 ```
+
+运行
+
+```shell
+rosrun learning_service person_server
+rosrun learning_service person_client
+```
