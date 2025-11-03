@@ -334,7 +334,7 @@ rosrun turtlesim turtlesim_node
 
 ```shell
 source devel/setup.zsh
-rosrun learning_topic person_subscriber.py
+rosrun learning_topic pose_subscriber.py
 rosrun learning_topic velocity_publisher.py
 rosrun learning_topic person_subscriber.py
 rosrun learning_topic person_publisher.py
